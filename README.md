@@ -33,6 +33,9 @@ Bu Python betiği, çeşitli proxy türlerini kontrol ederek çalışanları bel
 4. Değişikliklerinizi yükleyin (`git push origin özellik/düzeltme`)
 5. Bir pull isteği açın
 
+## Sorumluluk Reddi
+-bu depo eğitim amaçlıdır herhangi sorumluluk kabul etmiyoruz
+
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
